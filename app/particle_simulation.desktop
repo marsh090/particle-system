@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Particle Simulation
+Exec=/home/lucas_guarnier/Documents/projects/particle-system/app/dist/particle_simulation
+Icon=/home/lucas_guarnier/Documents/projects/particle-system/app/assets/icon.png
+Terminal=false
+Categories=Game; 
